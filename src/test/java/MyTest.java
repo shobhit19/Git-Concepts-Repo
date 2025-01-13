@@ -6,6 +6,6 @@ public class MyTest {
         System.out.println("value of param "+i);
     }
     public void testForCartPage() {
-        
+        System.out.println("cart testing has been started");
     }
 }
