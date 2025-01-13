@@ -1,0 +1,9 @@
+package pages;
+
+public class AddToCartPage {
+
+    public void cart(){
+        String named2 = "cart2";
+        System.out.println(named2);
+    }
+}
