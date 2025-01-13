@@ -8,4 +8,8 @@ public class MyTest {
     public void testForCartPage() {
         
     }
+
+    public void test2_CartPage(){
+        System.out.println("added another test case");
+    }
 }
